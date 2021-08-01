@@ -1,3 +1,4 @@
+-- Tabla de matenimiento de log
 CREATE TABLE categoria_log (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
     accion varchar(255) NOT NULL,
